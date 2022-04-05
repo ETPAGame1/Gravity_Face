@@ -11,3 +11,4 @@ niveau ou on fait un labyrinthe de l'exterieur
 puzzle avec les plaques de pression ? (activé dans l'ordre, timer, caché)
 mettre un levier qui bouge avec la gravité
 faire un niveau avec mur qui tue et pleins de rampes ou le joueur doit trouver un chemin (un peu comme les enigmes de matthieu mais c'est nous la boule) (carré et couloir)
+Faire des dégat de chutes
