@@ -3,12 +3,16 @@ rotate map
 porte et plaque
 ramasser objet
 sol qui fait des degats
+niveau ou on fait un labyrinthe de l'exterieur
+
+
+
+
 
 meca qu'on peut ajouter ?
 //freeze gun ?
 tourelle qui nous tire dessus et qui change la rotation
-niveau ou on fait un labyrinthe de l'exterieur
-puzzle avec les plaques de pression ? (activé dans l'ordre, timer, caché)
 mettre un levier qui bouge avec la gravité
+puzzle avec les plaques de pression ? (activé dans l'ordre, timer, caché)
 faire un niveau avec mur qui tue et pleins de rampes ou le joueur doit trouver un chemin (un peu comme les enigmes de matthieu mais c'est nous la boule) (carré et couloir)
-Faire des dégat de chutes
+//Faire des dégat de chutes
